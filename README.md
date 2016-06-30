@@ -1,3 +1,6 @@
+# Modelo de TCC da Universidade Anhembi Morumbi em LaTex #
+Este projeto contém um modelo em LaTex do formato do TCC utilizado pela UAM em 2016.
+
 # Instruções para gerar o PDF #
 
 Para "compilar" esse modelo e gerar o arquivo no formato “.pdf”, os seguintes
